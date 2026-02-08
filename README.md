@@ -8,8 +8,6 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
-[Live Demo](https://wandora.vercel.app) • [Backend Repo](https://github.com/zahid-official/project-01-wandora-backend) • [Report Bug](https://github.com/zahid-official/project-01-wandora/issues)
-
 </div>
 
 ---
